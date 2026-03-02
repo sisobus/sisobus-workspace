@@ -96,4 +96,5 @@ git push
 
 | 서비스명 | 설명 | repo | 상태 |
 |---------|------|------|------|
-| (아직 없음) | | | |
+| love-web | 프론트엔드 웹 서비스 | [sisobus/love-web](https://github.com/sisobus/love-web) | active |
+| love-backend | 백엔드 서비스 | [sisobus/love-backend](https://github.com/sisobus/love-backend) | active |

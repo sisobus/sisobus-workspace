@@ -1,0 +1,6 @@
+[submodule "love-web"]
+	path = love-web
+	url = https://github.com/sisobus/love-web.git
+[submodule "love-backend"]
+	path = love-backend
+	url = https://github.com/sisobus/love-backend.git
